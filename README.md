@@ -1,5 +1,5 @@
 # Kuafor-Sayfasi
-Responsive kuaför sayfası
+Web sayfasının içeriğine [buradan](http://gold-mirror.netlify.app/) ulaşabilirsiniz
 ## Ana sayfa slider
 ![](Scenario/img/image_1.jpg)
 ___
